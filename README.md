@@ -1,4 +1,4 @@
-Sogang Capston Design #2 
+"""Sogang Capston Design #2 """
 
 Project#6 Name : "서강 알리미"
 
